@@ -20,7 +20,7 @@ Automated Python script to scrape product/market pricing data from e-commerce we
 ### Step 1: Clone or Download Repository
 git clone https://github.com/YOUR-USERNAME/data-freelance-projects.git
 
-cd data-freelance-projects/1_web_scraper_pricing
+cd data-freelance-projects/web_scraper_pricing
 ### Step 2: Install Dependencies
 pip install -r requirements.txt
 ### Step 3: Run the Script
